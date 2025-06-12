@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "knex": "node node_modules/knex/bin/cli.js --knexfile knexfile.js --env local"
+    },
+    "author": "Nenad Mitic <nenad.mitic.bg@gmail.com>",
+    "license": "WTFPL",
+    "dependencies": {
+        "better-sqlite3": "^11.9.1",
+        "knex": "^3.1.0"
+    }
+}
